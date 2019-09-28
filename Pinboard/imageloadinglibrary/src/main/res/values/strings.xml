@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Loading Library</string>
+    <string name="list">Show in List</string>
+    <string name="grid">Show in Grid</string>
+</resources>
